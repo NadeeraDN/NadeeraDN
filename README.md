@@ -1,5 +1,5 @@
--# 💫 About Me:
-🔭 I’m currently a student<br>👯 I’m looking to collaborate on AI<br>🤝 I’m looking for help with programming<br>🌱 I’m currently learning Biomedical Engineering<br>💬 Ask me about <br>⚡ Fun fact
+# 💫 About Me:
+🔭 I’m currently a student<br>👯 I’m looking to collaborate on AI<br>🤝 I’m looking for help with programming<br>🌱 I’m currently learning Biomedical Engineering
 
 
 # 💻 Tech Stack:
@@ -14,9 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nadeera&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nadeera&icon=5&color=6)](https://visitcount.itsvg.in)
